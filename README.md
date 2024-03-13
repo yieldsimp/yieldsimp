@@ -4,7 +4,7 @@
 name: @yieldsimp
 base: nyc
 like: pizza, music
-lang: rust, python, javascript, swift for now
+lang: python, javascript, rust, swift
 ```
 
 <!---
