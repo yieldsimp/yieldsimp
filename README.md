@@ -1,6 +1,6 @@
 # 
 ```swift
-/* here lies lit code
+/// here lies lit code
 name: @yieldsimp
 base: nyc
 like: pizza, music
