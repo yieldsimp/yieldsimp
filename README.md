@@ -1,5 +1,5 @@
 # 
-```haml
+```lolcode
 name: @yieldsimp
 base: nyc
 like: pizza, music
