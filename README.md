@@ -1,6 +1,5 @@
 # 
-```yml
-here lies lit code
+```yaml
 name: @yieldsimp
 base: nyc
 like: pizza, music
